@@ -1,4 +1,4 @@
-#### Dotfiles  
+#### Dotfile Setup - Latest and Greatest   
 Create .dotfiles directory in ~  
 Create .vim directory in ~  
 cd .vim && mkdir bundle  
