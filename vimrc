@@ -6,13 +6,13 @@ call vundle#begin()
 
 Plugin 'gmarik/Vundle.vim'
 
-Plugin 'tpope/vim-fugitive'
-
 Plugin 'itchyny/lightline.vim'
 
 Plugin 'kien/ctrlp.vim'
 
 Plugin 'Lokaltog/vim-easymotion'
+
+Plugin 'tpope/vim-fugitive'
 
 Plugin 'Valloric/YouCompleteMe'
 
@@ -21,6 +21,10 @@ Plugin 'scrooloose/syntastic'
 Plugin 'pangloss/vim-javascript'
 
 Plugin 'othree/javascript-libraries-syntax.vim'
+
+Plugin 'mattn/emmet-vim'
+
+Plugin 'rizzatti/dash.vim'
 
 Plugin 'matthewsimo/angular-vim-snippets'
 
